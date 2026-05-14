@@ -1,3 +1,6 @@
+go1.26.3.linux-amd64.tar.gz:
+  size: 66862230
+  sha: sha256:2b2cfc7148493da5e73981bffbf3353af381d5f93e789c82c79aff64962eb556
 jq/jq-1.8.1-linux-amd64.tgz:
   size: 993240
   object_id: e8793d0d-eec7-4b5e-78ba-656714b86ca2
